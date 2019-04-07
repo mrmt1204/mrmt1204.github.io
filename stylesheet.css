@@ -14,7 +14,7 @@ a:hover{
 header, footer, div.page{
     width: 760px;
     margin: 0 auto;
-    background: #99ffcc;
+    background: #ccffcc;
     padding: 20px 20px;
 }
 
@@ -43,6 +43,6 @@ div.inner{
 }
 
 div.page{
-    background: #ccffcc;
-    float:center;
+    background: #e6ffe9;
+    float: center;
 }
